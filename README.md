@@ -1,8 +1,6 @@
 # PlantPal: Automated Irrigation Robot
 
-**Automated Irrigation Robot**  
-**Spring 2024**  
-**Team: Group 05**
+![System Overview](system_image.png)
 
 ## Overview
 PlantPal is a smart irrigation system designed to optimize water usage for plants by automating the irrigation process based on real-time environmental data. The system uses a combination of **Raspberry Pi**, **Arduino**, and various sensors to monitor soil moisture, water levels, and plant presence, ensuring plants receive just the right amount of water.
@@ -23,7 +21,6 @@ PlantPal is a smart irrigation system designed to optimize water usage for plant
 5. **Water Level Monitoring**: A water-level sensor ensures the robot has sufficient water for irrigation.
 6. **Feedback Loop**: Post-watering, soil moisture levels are reassessed to stop irrigation if the soil is adequately hydrated.
 
-![Circuit Design](circuit.jpg)
 
 ## Components Used
 
@@ -75,3 +72,19 @@ This project showcases the integration of sensor technology and robotics in agri
 - Scaling the project for larger farms.
 - Implementing remote control and monitoring capabilities through a mobile app.
 - Enhancing machine learning algorithms for more accurate plant detection.
+
+
+## References
+
+1.	7. Ultrasonic Distance Sensor—Smarthon Documentation 1.0 documentation. (n.d.). Retrieved April 20, 2024, from
+https://smarthon-docs-en.readthedocs.io/en/latest/Sensors_and_actuators/Ultrasonic_Dist ance_sensor.html
+2.	Arduino Docs | Arduino Documentation. (n.d.). Retrieved April 20, 2024, from
+https://docs.arduino.cc/
+3.	How Does a Soil Moisture Sensor Work and How to use it with Arduino? (n.d.). Retrieved April 20, 2024, from
+https://circuitdigest.com/microcontroller-projects/interfacing-soil-moisture-sensor-with-ar duino-uno
+4.	How does a Water Level Sensor Work and How to Interface it with Arduino? (n.d.). Retrieved April 20, 2024, from
+https://circuitdigest.com/microcontroller-projects/interfacing-water-level-sensor-with-ard uino
+5.	OpenCV: Object Detection. (n.d.). Retrieved April 20, 2024, from
+https://docs.opencv.org/4.x/df/dfb/group__imgproc__object.html
+6.	Raspberry Pi Documentation. (n.d.). Retrieved April 20, 2024, from
+https://www.raspberrypi.com/documentation/
