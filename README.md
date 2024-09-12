@@ -76,7 +76,7 @@ This project showcases the integration of sensor technology and robotics in agri
 
 ## References
 
-1.	7. Ultrasonic Distance Sensor—Smarthon Documentation 1.0 documentation. (n.d.). Retrieved April 20, 2024, from
+1. 7 Ultrasonic Distance Sensor—Smarthon Documentation 1.0 documentation. (n.d.). Retrieved April 20, 2024, from
 https://smarthon-docs-en.readthedocs.io/en/latest/Sensors_and_actuators/Ultrasonic_Dist ance_sensor.html
 2.	Arduino Docs | Arduino Documentation. (n.d.). Retrieved April 20, 2024, from
 https://docs.arduino.cc/
