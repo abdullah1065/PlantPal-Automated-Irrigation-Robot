@@ -5,8 +5,6 @@ import serial
 
 from objectIdent import getObjects
 
-
-
 GPIO.cleanup()
 # For different object detected image window
 a = 0
